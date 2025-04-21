@@ -6,7 +6,7 @@ order: 4
 
 ## EDUCATION
 
-**Doctor of Philosophy, Biomedical Engineering**, GPA 3.94, Expected April 2025, Virginia Tech, Blacksburg, VA
+**Doctor of Philosophy, Biomedical Engineering**, GPA 3.94, May 2025, Virginia Tech, Blacksburg, VA
 
 **_Dissertation_**: Pancreatic Cancer: Oncomicrobes, Electric Fields, and Fluid Flow
 
@@ -286,7 +286,7 @@ Experimental Cell Research, 1 Article
 
 Biomaterials, 1 Article
 
-# MENTORSHIP
+## MENTORSHIP
 
 **Research**
 
@@ -312,7 +312,7 @@ Alazar Izedin
 
 - Pursuing an M.S. in BME at Virginia Tech
 
-# HONORS/AFFILIATIONS/AWARDS
+## HONORS/AFFILIATIONS/AWARDS
 
 Biomedical Engineering Society
 
