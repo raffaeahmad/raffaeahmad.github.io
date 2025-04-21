@@ -4,11 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
-**Raffae N. Ahmad**
-
 ## EDUCATION
 
 **Doctor of Philosophy, Biomedical Engineering**, GPA 3.94, Expected April 2025, Virginia Tech, Blacksburg, VA
